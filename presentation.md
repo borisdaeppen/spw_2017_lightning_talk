@@ -10,7 +10,9 @@ No, there has been a SPW since 2013.
 
 And it's not in the obvious places
 
-Like Geneva or Zurich.
+Like Geneva. https://www.flickr.com/photos/vipals/
+
+Or Zurich. https://www.flickr.com/photos/lschlagenhauf/
 
 It has been in Olten
 
@@ -40,7 +42,7 @@ Rosti
 
 Views of a famous mountain
 
-No, not that one (although it's not far away)
+No, not that one (although it's not far away) https://www.flickr.com/photos/lschlagenhauf/
 
 And if course perl
 
