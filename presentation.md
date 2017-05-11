@@ -40,6 +40,8 @@ Beer
 
 Rosti
 
+A Hill Climb Race
+
 Views of a famous mountain
 
 No, not that one (although it's not far away) https://www.flickr.com/photos/lschlagenhauf/
